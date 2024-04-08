@@ -87,7 +87,7 @@ const Course = () => {
                   <h1 className='text-Black text-lg font-bold'>Credit: {course?.credit}</h1>
                 </div>
                 <div className="card-actions justify-center mt-5 ">
-                  <button onClick={() => handleAddCourse(course)} className="btn w-full text-white border-none hover:scale-110  scale-100 transition-all duration-300 hover:bg-gray-600 text-xl bg-fuchsia-600 shadow-xl">Add To Cart</button>
+                  <button onClick={() => handleAddCourse(course)} className="btn w-full text-black border-none  transition-all duration-300 hover:bg-gray-500 text-xl bg-fuchsia-500 shadow-xl">Add To Cart</button>
                 </div>
               </div>
             </div>
