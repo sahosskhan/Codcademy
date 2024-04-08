@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "image": "https://i.ytimg.com/vi/8PopR3x-VMY/maxresdefault.jpg",
+    "image": "https://i.ibb.co/frwGgTG/image.png",
     "Course_Name": "C Programming",
     "credit": 5,
-    "price": 15000,
+    "price": 279,
     "details": "C  is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used."
   },
   {
     "id": 2,
-    "image": "https://i.ytimg.com/vi/BClS40yzssA/maxresdefault.jpg",
+    "image": "https://i.ibb.co/WkdP2zk/image.png",
     "Course_Name": "C++ Programming",
     "credit": 10,
-    "price": 35000,
+    "price": 329,
     "details": "C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup in 1985."
   },
   {
     "id": 3,
-    "image": "https://i.ytimg.com/vi/WGJJIrtnfpk/maxresdefault.jpg",
+    "image": "https://i.ibb.co/Tct8qP6/maxresdefault.jpg",
     "Course_Name": "Python Programming",
     "credit": 10,
-    "price": 25000,
-    "details": "Python is a high-level, general-purpose, object-oriented   programming language. Python is dynamically typed and garbage-collected."
+    "price": 399,
+    "details": "Python is a high-level, general-purpose, functional, object-oriented programming language. Python is dynamically typed and garbage-collected."
   },
   {
     "id": 4,
-    "image": "https://i.ytimg.com/vi/hBh_CC5y8-s/maxresdefault.jpg",
+    "image": "https://i.ibb.co/vJ6N206/maxresdefault.jpg",
     "Course_Name": "Java Programming",
     "credit": 15,
-    "price": 10000,
+    "price": 405,
     "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies."
   },
   {
     "id": 5,
-    "image": "https://www.codingdsa.com/static/pages/assets/img/gallery/data_structures_algorithms.jpg",
+    "image": "https://i.ibb.co/DQrX3SL/data-structures-algorithms.jpg",
     "Course_Name": "Data Structure & Algorithm",
     "credit": 15,
-    "price": 19000,
+    "price": 499,
     "details": "Data structure is a data organization & storage format for access to data & algorithm is a finite sequence of rigorous instructions."
   },
   {
     "id": 6,
-    "image": "https://www.esds.co.in/blog/wp-content/uploads/2022/09/Database-Management-Systems.jpg",
+    "image": "https://i.ibb.co/DgGxPRN/image.png",
     "Course_Name": "Database  Management System",
     "credit": 15,
-    "price": 20000,
+    "price": 459,
     "details": "Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data interface between an end-user."
   }
 ]
